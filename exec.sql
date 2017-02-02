@@ -1,0 +1,1 @@
+exec generateDataForColumn 'User', 'UserID', 10000;
